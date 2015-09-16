@@ -1,0 +1,4 @@
+001-0295a00	T 001-0295a	buddhist/T-taisho/T50/02/T50-0295.png
+001-0295b00	T 001-0295b	buddhist/T-taisho/T50/02/T50-0295.png
+001-0295c00	T 001-0295c	buddhist/T-taisho/T50/02/T50-0295.png
+001-0296a00	T 001-0296a	buddhist/T-taisho/T50/02/T50-0296.png
