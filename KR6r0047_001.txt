@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 22:15:23.509571
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:13
 #+TITLE: 大唐青龍寺三朝供奉大德行狀
 #+PROPERTY: CBETA_ID T50n2057
 #+PROPERTY: ID KR6r0047
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 50, No. 2057
 #+PROPERTY: VOL 50
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6r0047_T_000-0294c>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6r0047_T_001-0294c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.2057¶
-
- 大唐青龍寺三朝供奉大德行狀¶
+No. 2057¶
+大唐青龍寺三朝供奉大德行狀¶
 ¶
 
 先師諱惠果和尚。俗姓馬氏。京兆府萬年縣¶
