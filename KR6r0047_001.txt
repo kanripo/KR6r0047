@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 22:15:23.509571
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:13
 #+TITLE: 大唐青龍寺三朝供奉大德行狀
 #+PROPERTY: CBETA_ID T50n2057
 #+PROPERTY: ID KR6r0047
